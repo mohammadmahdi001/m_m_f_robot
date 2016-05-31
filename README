@@ -1,9 +1,8 @@
-h1. Manybots Open Server
 
 h2. About
 
-Manybots is a platform to log and visualize all your activities. It utilizes Activity Streams and OAuth to enable you to develop a cloud of applications that capture and analyze your (or anybody's, or anything's) activities.
-You can run your own Manybots Server or create an account at http://manybots.com.
+m_m_F_robot is a platform to log and visualize all your activities. It utilizes Activity Streams and OAuth to enable you to develop a cloud of applications that capture and analyze your (or anybody's, or anything's) activities.
+You can run your own m_m_F_robot Server or create an account at https://github.com/mohammadmahdi001/m_m_f_robot
 
 h2. Installation
 
